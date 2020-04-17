@@ -6,12 +6,12 @@
 )<br/>
 >Setup dosyasını kurunuz. Kurulum oldukça basittir.<br/>
 Kurulum işlemi bittikden sonra program Masaüstünüze eklenecektir.<br/>
-Programı başlatınız. Ardından "Settings" butonuna basarak "SETTİNGS" dosyasındaki programın ihtiyaç duyduğu yollar yazınız.<br/>
+Programı başlatınız. Ardından "Settings" butonuna basarak "settings" dosyasındaki programın ihtiyaç duyduğu yollar yazınız.<br/>
 "Commands" butonuna basarak programın kullandıgı komutları görebilirsiniz.<br/>
 Programı başlatmak için orta kısımdaki butona bir defa basmanız yetecektir.<br/>
-Program başladığında tokyunun hazır olması için bir defa "tokyo" demelisiniz. Tokyo dediğiniz takdirde size bir geri dönütde bulunacak.<br/>
+Program başladığında "Tokyo"nun hazır olması için bir defa "Tokyo" demelisiniz. "Tokyo komutunu" dediğiniz takdirde size bir geri dönütde bulunacaktır.<br/>
 Böylece istediğiniz komutu söyleyebilir duruma gelmiş olacaksınız.<br/>
-Kapatmak için ise "Close" komutunu söylemelisiniz.<br/>
+Kapatmak için ise "Close" komutunu söylemelisiniz. Aksi takdirde arka planda çalışır vaziyette bulunacaktır.<br/>
 Not: Program yeni oldugun için bir kaç optimizasyon sorunları yaşayabilirsiniz. Sorunlar gün geçtikçe düzeltilecektir.<br/>
 
 
@@ -36,7 +36,7 @@ Note: You may experience several optimization problems because the program is ne
 [TR] 1. satırda, ilk oyununuzun yolunu yazıyorsunuz<br/>
 [US] In line 1, you write the path to your game first game<br/>
 
-[TR] ikinci satırda oyununuz ismini yazıyorsunuz<br/>
+[TR] 2. satırda oyununuz ismini yazıyorsunuz<br/>
 [US] In the second line you write your game name<br/>
 
 [TR] 3. satırdı ikinci oyununuzun yolunu yazıyorsunuz<br/>
@@ -59,22 +59,22 @@ Note: You may experience several optimization problems because the program is ne
 [TR] 7. satıra facebook email adresinizi yazınız<br/>
 [US] Write your facebook email address on the 7th line<br/>
 
-[TR] 8. satıra facebook şifresi yazınız<br/>
+[TR] 8. satıra facebook şifresi yazınız. (İsteğe bağlı) (facebook hesabınızı otomatik açtırmak için gereklidir) <br/>
 [US] Write Facebook password on the 8th line<br/>
 
-[TR] 9. satıra eposta adresinizi yazınız<br/>
+[TR] 9. satıra eposta adresinizi yazınız (isteğe bağlı) (otomatik mail göndermek için gereklidir.)<br/>
 [US] Write your email address on the 9th line<br/>
 
 [TR] 10. satıra eposta hesabınızın şifresini yazınız<br/>
 [US] On the 10th line, write the password of your e-mail account<br/>
 
-[TR] 11. satıra bir alıcı eposta hesabı girin<br/>
+[TR] 11. satıra bir alıcı eposta hesabı girin (Mail göndermek için alıcı hesap)<br/>
 [US] Enter a recipient email account on line 11<br/>
 
 [TR] 12. satıra başka bir alıcı eposta hesabı giriniz<br/>
 [US] Enter another recipient email account on line 12<br/>
 
-[TR] 13. satıra bir arka plan resim yolu yazınız<br/>
+[TR] 13. satıra bir arka plan resim yolu yazınız (arka plan resminizi değiştirmek için isteğe bağlıdır) <br/>
 [US] Write a background image path on the 13th line<br/>
 
 [TR] 14. satıra whatsapp web uygulamasının yolunu yazınız<br/>
@@ -83,7 +83,7 @@ Note: You may experience several optimization problems because the program is ne
 [TR] 15. satıra video kayıt programınızın yolunu girin<br/>
 [US] On the 15th line, enter the path of your video recording program<br/>
 
-[TR] 16. Satıra okul sayfanızın kullanıcı adını giriniz<br/>
+[TR] 16. Satıra okul sayfanızın kullanıcı adını giriniz (isteğe bağlıdır) (okul sayfanızı otomatik açtırabilmek için gereklidir)<br/>
 [US] On line 16 enter your school page username<br/>
 
 [TR] 17. satıra okul sayfanızın şifresini giriniz<br/>
