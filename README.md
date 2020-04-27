@@ -33,19 +33,19 @@ Note: You may experience several optimization problems because the program is ne
 
 # settings.txt<br/>
 =============================<br/>
-[TR] 1. satırda, ilk oyununuzun yolunu yazıyorsunuz<br/>
+[TR] 1. satırda, ilk oyununuzun yolunu yazıyorsunuz<br/> (istediğiniz herhangi bir oyunu tek komut ile açabilmek için gereklidir)<br/>
 [US] In line 1, you write the path to your game first game<br/>
 
-[TR] 2. satırda oyununuz ismini yazıyorsunuz<br/>
+[TR] 2. satırda oyununuz ismini yazıyorsunuz<br/> (Oyun açılırken size geri dönütte bulunması için açmak istediğiniz oyununuzun ismi)<br/>
 [US] In the second line you write your game name<br/>
 
-[TR] 3. satırdı ikinci oyununuzun yolunu yazıyorsunuz<br/>
+[TR] 3. satırda ikinci oyununuzun yolunu yazıyorsunuz<br/>
 [US] You wrote the path of your second game which was the 3rd line<br/>
 
 [TR] 4.satırda ikinci oyununuzun ismini yazın<br/>
 [US] Write the name of your second game on line 4<br/>
 
-[TR] 5.satırda tarayıcınızın yolunu yazınız<br/>
+[TR] 5.satırda tarayıcınızın yolunu yazınız<br/>    (İnternet tarayıcısını kullanarak yaptırmak istediğiniz faaliyetler için geçerlidir)<br/>
 [TR] tarayıcı indirmek için aşağıdaki bağlantıyı kullanın<br/>
 [URL] (https://chromedriver.storage.googleapis.com/index.html?path=2.35/)<br/>
 
@@ -53,40 +53,40 @@ Note: You may experience several optimization problems because the program is ne
 [US] Use the link below to download the browser<br/>
 [URL] (https://chromedriver.storage.googleapis.com/index.html?path=2.35/)<br/>
 
-[TR] 6.satıra müzik listenizin yolunu yazınız<br/>
+[TR] 6.satırda müzik listenizin yolunu yazınız<br/>   (tek komut ile müzik listenizi açmak için gereklidir)<br/>
 [US] On the 6th line, write the path of your music list<br/>
 
-[TR] 7. satıra facebook email adresinizi yazınız<br/>
+[TR] 7. satırda facebook email adresinizi yazınız<br/>  (İsteğe bağlı) (facebook hesabınızı otomatik açtırmak için gereklidir) <br/>
 [US] Write your facebook email address on the 7th line<br/>
 
-[TR] 8. satıra facebook şifresi yazınız. (İsteğe bağlı) (facebook hesabınızı otomatik açtırmak için gereklidir) <br/>
+[TR] 8. satırda facebook şifresi yazınız. 
 [US] Write Facebook password on the 8th line<br/>
 
-[TR] 9. satıra eposta adresinizi yazınız (isteğe bağlı) (otomatik mail göndermek için gereklidir.)<br/>
+[TR] 9. satırda eposta adresinizi yazınız (isteğe bağlı) (otomatik mail göndermek için gereklidir.)<br/>
 [US] Write your email address on the 9th line<br/>
 
-[TR] 10. satıra eposta hesabınızın şifresini yazınız<br/>
+[TR] 10. satırda eposta hesabınızın şifresini yazınız<br/>
 [US] On the 10th line, write the password of your e-mail account<br/>
 
-[TR] 11. satıra bir alıcı eposta hesabı girin (Mail göndermek için alıcı hesap)<br/>
+[TR] 11. satırda bir alıcı eposta hesabı girin (Mail göndermek için alıcı hesap)<br/>
 [US] Enter a recipient email account on line 11<br/>
 
-[TR] 12. satıra başka bir alıcı eposta hesabı giriniz<br/>
+[TR] 12. satırda başka bir alıcı eposta hesabı giriniz<br/>
 [US] Enter another recipient email account on line 12<br/>
 
-[TR] 13. satıra bir arka plan resim yolu yazınız (arka plan resminizi değiştirmek için isteğe bağlıdır) <br/>
+[TR] 13. satırda bir arka plan resim yolu yazınız (arka plan resminizi değiştirmek için isteğe bağlıdır) <br/>
 [US] Write a background image path on the 13th line<br/>
 
-[TR] 14. satıra whatsapp web uygulamasının yolunu yazınız<br/>
+[TR] 14. satırda whatsapp web uygulamasının yolunu yazınız<br/>
 [US] On the 14th line, write the path of the whatsapp web application<br/>
 
-[TR] 15. satıra video kayıt programınızın yolunu girin<br/>
+[TR] 15. satırda video kayıt programınızın yolunu girin<br/>  (ekran kaydı yapmak için kullandığınız bir uygulamanın yol'u)<br/>
 [US] On the 15th line, enter the path of your video recording program<br/>
 
-[TR] 16. Satıra okul sayfanızın kullanıcı adını giriniz (isteğe bağlıdır) (okul sayfanızı otomatik açtırabilmek için gereklidir)<br/>
+[TR] 16. Satırda okul sayfanızın kullanıcı adını giriniz (isteğe bağlıdır) (okul sayfanızı otomatik açtırabilmek için gereklidir)<br/>
 [US] On line 16 enter your school page username<br/>
 
-[TR] 17. satıra okul sayfanızın şifresini giriniz<br/>
+[TR] 17. satırda okul sayfanızın şifresini giriniz<br/>
 [US] On the 17th line, enter the password of your school page<br/>
 
 ![MainMenu](https://github.com/TAYYONbinAHRAS/TokyoVoiceAssistant/blob/master/SetupUrl/MainMenu.png)
