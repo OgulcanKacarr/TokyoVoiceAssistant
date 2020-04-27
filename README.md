@@ -59,7 +59,7 @@ Note: You may experience several optimization problems because the program is ne
 [TR] 7. satırda facebook email adresinizi yazınız<br/>  (İsteğe bağlı) (facebook hesabınızı otomatik açtırmak için gereklidir) <br/>
 [US] Write your facebook email address on the 7th line<br/>
 
-[TR] 8. satırda facebook şifresi yazınız. 
+[TR] 8. satırda facebook şifresi yazınız. <br/>
 [US] Write Facebook password on the 8th line<br/>
 
 [TR] 9. satırda eposta adresinizi yazınız (isteğe bağlı) (otomatik mail göndermek için gereklidir.)<br/>
