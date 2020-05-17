@@ -89,5 +89,5 @@ Note: You may experience several optimization problems because the program is ne
 [TR] 17. satırda okul sayfanızın şifresini giriniz<br/>
 [US] On the 17th line, enter the password of your school page<br/>
 
-![MainMenu](https://github.com/TAYYONbinAHRAS/TokyoVoiceAssistant/blob/master/SetupUrl/MainMenu.png)
-![CommandsMenu](https://github.com/TAYYONbinAHRAS/TokyoVoiceAssistant/blob/master/SetupUrl/CommandMenu.png)
+![MainMenu](https://github.com/OgulcanKacarr/TokyoVoiceAssistant/blob/master/SetupUrl/MainMenu.png)
+![CommandsMenu](https://github.com/OgulcanKacarr/TokyoVoiceAssistant/blob/master/SetupUrl/CommandMenu.png)
