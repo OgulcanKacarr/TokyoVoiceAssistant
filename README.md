@@ -2,8 +2,11 @@
 
 ## Windows Kullanım
 [TR] <br/>
-[SetupDosyası] (https://dosya.co/djv1aj158twc/TokyoSetup.rar.html
-)<br/>
+[SetupDosyası] (https://dosya.co/xog4js16pd1b/TokyoSetup.rar.html
+<br/>
+
+Not: Lütfen uygulamayı başlatırken Yönetici olarak çalıştırınız. Böylece dosya yollarını sıkıntısız bir şekilde ekleyebilirsiniz
+
 >Setup dosyasını kurunuz. Kurulum oldukça basittir.<br/>
 Kurulum işlemi bittikden sonra program Masaüstünüze eklenecektir.<br/>
 Programı başlatınız. Ardından "Settings" butonuna basarak "settings" dosyasındaki programın ihtiyaç duyduğu yollar yazınız.<br/>
@@ -16,8 +19,12 @@ Not: Program yeni oldugun için bir kaç optimizasyon sorunları yaşayabilirsin
 
 
 ## Windows Setup
+
+Note: Please run as Administrator when launching the application. So you can add file paths without any trouble
+
 [US]<br/>
-[SetupFile] (https://dosya.co/djv1aj158twc/TokyoSetup.rar.html<br/>
+[SetupFile] (https://dosya.co/xog4js16pd1b/TokyoSetup.rar.html<br/>
+<br/>
 Install the installation file. Installation is very simple. <br/>
 The program will be added to your Desktop after the installation process is finished. <br/>
 Start the program. Then write the paths required by the program in the "SETTING" file under "Settings". <br/>
