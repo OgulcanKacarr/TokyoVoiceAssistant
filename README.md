@@ -3,6 +3,7 @@
 ## Windows Kullanım
 [TR] <br/>
 [SetupDosyası] (https://dosya.co/xog4js16pd1b/TokyoSetup.rar.html
+dosya şifresi: OgulcanKacar
 <br/>
 
 Not: Lütfen uygulamayı başlatırken Yönetici olarak çalıştırınız. Böylece dosya yollarını sıkıntısız bir şekilde ekleyebilirsiniz
@@ -24,6 +25,7 @@ Note: Please run as Administrator when launching the application. So you can add
 
 [US]<br/>
 [SetupFile] (https://dosya.co/xog4js16pd1b/TokyoSetup.rar.html<br/>
+file password: OgulcanKacar
 <br/>
 Install the installation file. Installation is very simple. <br/>
 The program will be added to your Desktop after the installation process is finished. <br/>
