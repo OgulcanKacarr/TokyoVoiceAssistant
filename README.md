@@ -2,7 +2,7 @@
 
 ## Windows Kullanım
 [TR] <br/>
-[SetupDosyası] (https://dosya.co/xog4js16pd1b/TokyoSetup.rar.html<br/>
+[SetupDosyası] (https://dosya.co/835pfce92lhk/TokyoSetup.rar.html<br/>
 dosya şifresi: OgulcanKacar
 <br/>
 
@@ -24,7 +24,7 @@ Not: Program yeni oldugun için bir kaç optimizasyon sorunları yaşayabilirsin
 Note: Please run as Administrator when launching the application. So you can add file paths without any trouble
 
 [US]<br/>
-[SetupFile] (https://dosya.co/xog4js16pd1b/TokyoSetup.rar.html<br/>
+[SetupFile] (https://dosya.co/835pfce92lhk/TokyoSetup.rar.html<br/>
 file password: OgulcanKacar
 <br/>
 
