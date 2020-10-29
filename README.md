@@ -27,6 +27,7 @@ Note: Please run as Administrator when launching the application. So you can add
 [SetupFile] (https://dosya.co/xog4js16pd1b/TokyoSetup.rar.html<br/>
 file password: OgulcanKacar
 <br/>
+
 Install the installation file. Installation is very simple. <br/>
 The program will be added to your Desktop after the installation process is finished. <br/>
 Start the program. Then write the paths required by the program in the "SETTING" file under "Settings". <br/>
