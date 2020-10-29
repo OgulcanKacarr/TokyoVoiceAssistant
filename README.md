@@ -41,7 +41,7 @@ Note: You may experience several optimization problems because the program is ne
 
 
 
-# settings.txt<br/>
+# Settings.txt<br/>
 =============================<br/>
 [TR] 1. satırda, ilk oyununuzun yolunu yazıyorsunuz<br/> (istediğiniz herhangi bir oyunu tek komut ile açabilmek için gereklidir)<br/>
 [US] In line 1, you write the path to your game first game<br/>
