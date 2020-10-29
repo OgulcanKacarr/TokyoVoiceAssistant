@@ -2,7 +2,7 @@
 
 ## Windows Kullanım
 [TR] <br/>
-[SetupDosyası] (https://dosya.co/xog4js16pd1b/TokyoSetup.rar.html
+[SetupDosyası] (https://dosya.co/xog4js16pd1b/TokyoSetup.rar.html<br/>
 dosya şifresi: OgulcanKacar
 <br/>
 
